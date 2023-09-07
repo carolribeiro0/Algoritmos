@@ -9,5 +9,5 @@ int main (){
 	
 	dias_total = ((anos*365) + (meses*30) + dias);
 	
-	cout <<"vc esta vivo a "<<dias_total<< " dias :)";
+	cout <<"voce nasce a "<<dias_total<< " dias atras";
 }
