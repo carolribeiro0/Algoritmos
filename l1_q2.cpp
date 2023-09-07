@@ -15,5 +15,5 @@ int main(){
 	qtd_cigarros=qtd_cigarros*(anos*365);
 	gasto_total=(qtd_cigarros/20)*preco;
 	
-	cout<<"vc gastou "gasto_total<< " reais";
+	cout<<"vc gastou o total de "gasto_total<< " reais";
 }
